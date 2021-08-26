@@ -1,0 +1,15 @@
+C:\React-Personales\back\Claims\ContextDatabase\bin\Debug\net5.0\ContextDataBase.deps.json
+C:\React-Personales\back\Claims\ContextDatabase\bin\Debug\net5.0\ContextDataBase.runtimeconfig.json
+C:\React-Personales\back\Claims\ContextDatabase\bin\Debug\net5.0\ContextDataBase.runtimeconfig.dev.json
+C:\React-Personales\back\Claims\ContextDatabase\bin\Debug\net5.0\ContextDataBase.dll
+C:\React-Personales\back\Claims\ContextDatabase\bin\Debug\net5.0\ref\ContextDataBase.dll
+C:\React-Personales\back\Claims\ContextDatabase\bin\Debug\net5.0\ContextDataBase.pdb
+C:\React-Personales\back\Claims\ContextDatabase\obj\Debug\net5.0\ContextDataBase.csproj.AssemblyReference.cache
+C:\React-Personales\back\Claims\ContextDatabase\obj\Debug\net5.0\ContextDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\React-Personales\back\Claims\ContextDatabase\obj\Debug\net5.0\ContextDataBase.AssemblyInfoInputs.cache
+C:\React-Personales\back\Claims\ContextDatabase\obj\Debug\net5.0\ContextDataBase.AssemblyInfo.cs
+C:\React-Personales\back\Claims\ContextDatabase\obj\Debug\net5.0\ContextDataBase.csproj.CoreCompileInputs.cache
+C:\React-Personales\back\Claims\ContextDatabase\obj\Debug\net5.0\ContextDataBase.dll
+C:\React-Personales\back\Claims\ContextDatabase\obj\Debug\net5.0\ref\ContextDataBase.dll
+C:\React-Personales\back\Claims\ContextDatabase\obj\Debug\net5.0\ContextDataBase.pdb
+C:\React-Personales\back\Claims\ContextDatabase\obj\Debug\net5.0\ContextDataBase.genruntimeconfig.cache
